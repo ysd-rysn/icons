@@ -1,10 +1,10 @@
-# myicon
+# Icon for profile
 
 
-## dark theme
+## Dark Theme
 ![myicon dark theme](./png/myicon(dark).png)
 
 <br>
 
-## light theme
+## Light Theme
 ![myicon dark theme](./png/myicon(light).png)
